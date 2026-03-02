@@ -56,3 +56,11 @@ The package contains the following files:
 * mgs.m        : an implementation of the modified Gram-Schmidt process
 * pimentel.ppm : a test dataset
 * testdextre.m : test script for dextre.m
+
+---
+
+PACKAGE UPDATES
+---------------
+
+Package updates will be available at
+[link](https://bugs.unica.it/cana/software.html)
